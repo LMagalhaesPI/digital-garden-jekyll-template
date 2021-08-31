@@ -7,13 +7,23 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Hello 🤗👋
+My name is Luísa Magalhães.  I'm a software developer and tech lead, passionate about technology, self-improvement, and humanity (most of my days!! 😳).
+This is my small digital garden where I drop notes and articles about any subject that I'm diving in. 
+You can find here my reflections and experiences about several technologies, management. And a place where everyone is invited to interact with an open mind and give feedback!!! 
+Fell free to send me a message on my [Twitter (@LusaMagalhes11)](https://twitter.com/LusaMagalhes11)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+You will not find here any kind of criticism, judgment, or vegan recipes (but I'm really good at the last one🧆🧆).  
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+
+### 🌱🌱🌱 My seeds
+- [[How to use Microsoft.FeatureManagement to implement feature flag]]
+
+### 🌾🌾 Small plants
+
+### 🌳 Trees 🌳🌴
+
+### Book Summaries 📚
 
 <style>
   .wrapper {
