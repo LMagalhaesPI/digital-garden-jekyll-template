@@ -19,6 +19,8 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 ### 🌱🌱🌱 My seeds
 - [[How to use Microsoft.FeatureManagement to implement feature flag]]
 
+- [[What to ask in a fit cultural interview!!!]]
+
 ### 🌾🌾 Small plants
 
 ### 🌳 Trees 🌳🌴
