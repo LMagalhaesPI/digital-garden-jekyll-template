@@ -146,3 +146,6 @@ We can add filters and conditions using the *appsettings.json* file:
 ``` 
 
 Easy peasy !!!!
+
+Other feature flag option and which to choose:
+ [[Feature flag - Internal tool vs third party service!!!]]

@@ -21,6 +21,8 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[What to ask in a fit cultural interview!!!]]
 
+- [[Feature flag - Internal tool vs third party service!!!]] 
+
 ### 🌾🌾 Small plants
 
 ### 🌳 Trees 🌳🌴
