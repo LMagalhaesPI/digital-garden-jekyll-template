@@ -23,8 +23,8 @@ What is the best approach to implement a feature flag system? Which of the follo
  
  ➕ Feature flags can be managed and changed at runtime;<br/>
  ➕ Centralized store;<br/>
- ➕ Admin UI which allows system operators, QAs and product managers to view and modify Features Flags and their configuration,<br/>
- ➕ SDK that can support frontend, backend, and mobile apps.<br/>
+ ➕ Admin UI which allows system operators, QAs and product managers to view and modify Features Flags and their configuration; <br/>
+ ➕ SDK that can support frontend, backend, and mobile apps;<br/>
  ➕ We can start using it right now;<br/>
  ➕ Fast to implement;<br/>
  ➕ Support of several environments (test);<br/>
