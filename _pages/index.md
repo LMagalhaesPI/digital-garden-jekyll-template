@@ -25,6 +25,8 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[Which communication channels to use and when❓❓]]
 
+- [[Conventional commits!! What is it and how to use it!]]
+
 ### 🌾🌾 Small plants
 
 ### 🌳 Trees 🌳🌴

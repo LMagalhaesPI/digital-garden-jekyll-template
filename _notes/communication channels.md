@@ -6,3 +6,7 @@ While reading the book *Digital Body Language* I came up with a table of what I 
 
 
  <img src="images/DBL.jpg"> 
+
+Other startegies that can improve communication:
+
+[[Conventional commits!! What is it and how to use it!]]
