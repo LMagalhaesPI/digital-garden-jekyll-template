@@ -5,7 +5,7 @@ title: Feature flag - Internal tool vs third party service!!!
 What is the best approach to implement a feature flag system? Which of the following three options is the best?
 
 ✔️Config file in the project; ([[How to use Microsoft.FeatureManagement to implement feature flag]]) <br/>
-✔️Third-Party Service ; <br/>
+✔️Third-Party Service ;([[How to use splitIO to implement feature flag]] and [[How to use Optimizely to implement feature flag]])<br/>
 ✔️Internal Tool; <br/>
 
 ## Config file in the project
@@ -43,3 +43,4 @@ What is the best approach to implement a feature flag system? Which of the follo
  ➖ Ressources to scale (indirect costs);<br/>
  ➖ Slower to implement;<br/>
 
+[[Good practices using feature flags]]

@@ -6,6 +6,12 @@ title: How to use splitIO to implement feature flag
 
 It's a small demo of how to use split IO in an ASP.NET Core application.
 
+In this spike we have:
+
+✔️ The most basic example how to use Split IO in an ASP.NET Core application;
+
+✔️ How to configure the experiences in the Split IO dashboard;
+
 First, we need to install the splitIO Nuget package:
 
 ´´´
