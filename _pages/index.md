@@ -27,6 +27,16 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[Conventional commits!! What is it and how to use it!]]
 
+- [[Blue Green deployments❓❓]]
+
+- [[API Gateway vs BFF]]
+
+- [[Good practices using feature flags]]
+
+- [[Git Bisect - The best thing to find the commit that introduced a bug!!!!]]
+
+- [[How to define a succession plan or career path❓❓]]
+
 ### 🌾🌾 Small plants
 
 ### 🌳 Trees 🌳🌴

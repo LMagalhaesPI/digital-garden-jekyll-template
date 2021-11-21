@@ -44,3 +44,5 @@ What is the best approach to implement a feature flag system? Which of the follo
  ➖ Slower to implement;<br/>
 
 [[Good practices using feature flags]]
+[[How to use Optimizely to implement feature flag]]
+[[How to use splitIO to implement feature flag]]

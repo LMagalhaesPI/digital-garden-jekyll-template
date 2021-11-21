@@ -62,3 +62,5 @@ namespace FeatureFlag_SplitIO.Controllers
 ´´´
 
 We can use the method `GetTreatment` to get the feature flags that we defined in our account. Using the treatment and the feature flag name. 
+
+[[How to use Optimizely to implement feature flag]]

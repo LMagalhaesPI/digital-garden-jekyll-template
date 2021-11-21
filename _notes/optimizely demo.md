@@ -70,3 +70,5 @@ Each feature flag can have variations, with this we can define variables and gro
 <img src="images/Optimizely2.jpg"> 
 
 Optimizely is an ABTesting tool that provides the possibility to create feature flag toggles in an easy way. Of course, every ABTesting tool can be turned into a Feature flag tool.
+
+[[How to use splitIO to implement feature flag]]
