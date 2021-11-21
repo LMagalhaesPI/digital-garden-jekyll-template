@@ -10,6 +10,7 @@ title: What to ask in a fit cultural interview!!!
 - Problem-solving skills and out of the box thinking (innovative);
 - Effective communicator;
 - Resilient, Analytical and Objective;
+- Company values
 
 
 ## Possible questions?

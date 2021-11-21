@@ -2,19 +2,21 @@
 title: Feature flag - All you need to know!
 ---
 
-There is so much information on the internet about feature flags, but when I needed to study it I couldn't find a centralized place with all I needed and most of the information seems to be biases by some tool's brands. In this article I will write will cover the most important topics that we need to take into consideration when we are thinking to adopt a feature flag process:
+ <img src="images/FeatureFlag.png"> 
+
+There is so much information on the internet about feature flags, but when I needed to study it I couldn't find a centralized place with all I needed and most of the information seems to be biases by some tool's brands. In this article I will cover the most important topics that we need to take into consideration when we are thinking to adopt a feature flag process:
 <br/>
 
 ➕ What is a feature flag; <br/>
 ➕ Why is that good? <br/>
 ➕ Relevant data to be taken into consideration; <br/>
 ➕ Best practices; <br/>
-➕ Comapration of several tools and options; <br/>
+➕ Comparation of several tools and options; <br/>
 ➕ Conclusions; <br/>
 
 ## What is a feature flag
 
-Feature Flag, also known as Feature toggle or Feature switch is a process used to enable or disable functionalities remotely without the need to deploy code. It should be easier as toggling it on or off using an interface or editing a config file. The other option is feature branches, re-deploy and go through the code push process. All code changes can be made in the primary branch, and only when the feature is ready it will be enabled via the feature flag.
+Feature Flag, also known as Feature toggle or Feature switch is a process used to enable or disable functionalities remotely without the need to deploy code. It should be easier as toggling it on or off using an interface or editing a config file. The other option is feature branches, re-deploy and go through the code push process. All code changes can be made in the primary branch, and only when the feature is ready is that it will be enabled via the feature flag.
 
 ## Why is that good?
 
@@ -25,6 +27,8 @@ The following points are just the most important advantages that feature flags c
 ✔ `Testing in production`: Because it is impossible to completely simulate the production environment in the QA environments can be useful to have the possibility to release a feature for a small number of users or for a reduced time and test it this way minimizing the risk. It also provides a fast way to do a rollback if necessary via kill switch;
 
 ✔ `Canary releases`: Allow a feature to be released for a sub-group of users. It can be useful when we want to release for a small group of users to ensure that the feature is working properly or it’s what the client expects.
+
+<img src="images/FeatureFlag3.png">
 
 ✔ `Rollback/kill switch`- If a live issue or bug is discovered in a feature under a feature flag it can be disabled instantly without the need for new code;
 
@@ -70,6 +74,8 @@ The following points are just the most important advantages that feature flags c
 &emsp;&emsp;Create a task to remove the feature flag;<br/>
 &emsp;&emsp;Remove the feature flag and all the code related with it;<br/>
 
+ <img src="images/FeatureFlag2.png"> 
+
 ## Comapration of several tools and options:
 
 What is the best approach to implement a feature flag system? Which of the following three options is the best taking into consideration our needs?
@@ -84,7 +90,6 @@ What is the best approach to implement a feature flag system? Which of the follo
  ➕ Fast to implement;   <br/>
  ➕ Can be included in the CI/CD process; <br/>
 
- ➖ Require a re-deploy <br/>
  ➖ Depends only on the tech team. <br/>
 
 ### Third-Party Service
