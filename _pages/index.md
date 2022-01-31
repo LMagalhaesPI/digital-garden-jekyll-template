@@ -37,6 +37,12 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[How to define a succession plan or career path❓❓]]
 
+- [[API Gateway vs BFF]]
+
+- [[Contract tests]]
+
+- [[Functional Programming in C# why should I care?]]
+
 ### 🌾🌾 Small plants
 
 ### 🌳 Trees 🌳🌴

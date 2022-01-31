@@ -2,7 +2,6 @@
 title: Blue Green deployments❓❓
 ---
 
-
 Blue Green deployment is a deployment strategy that uses two identical environments, both similar, running in parallel in production and sharing the same database. Blue will be is live and green a staging service. When deploying a new release we should release first the Green service, then test everything and turn all the production traffic to this environment using a load balancer. Once it's proved that the Green service is running properly without bugs or problems the deployment is done to the blue service and we change again the service running in production to be the blue one.
 
 👌 Advantages:

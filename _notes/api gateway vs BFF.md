@@ -7,7 +7,7 @@ The goal of having a BFF (backend for frontend) or API Gateway is to create a si
 The BFF makes sense when we have to use diferent communication protocols or if the clients are using different authentication mechanisms
 
 <img src="images/apigateway.png">
-Api gateway architecture
+API gateway architecture
 
 <img src="images/BFF.png">  
 
