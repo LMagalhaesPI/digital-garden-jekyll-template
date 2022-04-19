@@ -41,7 +41,10 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[Contract tests]]
 
-- [[Functional Programming in C# why should I care?]]
+- [[Functional Programming in C# why should I care❓❓]]
+  
+- [[“How Might We” Questions 📚]]
+
 
 ### 🌾🌾 Small plants
 

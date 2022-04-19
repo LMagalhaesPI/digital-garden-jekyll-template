@@ -1,5 +1,5 @@
 ---
-title: Functional Programming in C# why should I care?
+title: Functional Programming in C# why should I care❓❓
 ---
 ## What is Functional Programming
 Purity/Pure Functions or referentially transparent - a function always produces the same result if you supply it with the same arguments. We shouldn't mutate an existing type that we receive in the function; it's better to return a new one. 
