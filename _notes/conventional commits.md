@@ -18,7 +18,8 @@ The type can be any of the following:
 ✔️ docs: adds or improves documentation. <br/>
 ✔️ test: adds tests. <br/>
 ✔️ perf: improves performance, without functional changes. <br/>
-✔️ chore: a catch-all type for any other commits. For instance, if you're implementing a single feature and it makes sense to divide the work into multiple commits, you should mark one commit as feat and the rest as chore.
+✔️ chore: a catch-all type for any other commits. For instance, if you're implementing a single feature and it makes sense to divide the work into multiple commits, you should mark one commit as feat and the rest as chore. <br/>
+✔️ refactor: refactoring code <br/>
 
 Example:
 ```

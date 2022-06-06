@@ -21,10 +21,6 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[What to ask in a fit cultural interview!!!]]
 
-- [[Feature flag - Internal tool vs third party service!!!]] 
-
-- [[Which communication channels to use and when❓❓]]
-
 - [[Conventional commits!! What is it and how to use it!]]
 
 - [[Blue Green deployments❓❓]]
@@ -32,8 +28,6 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 - [[API Gateway vs BFF]]
 
 - [[Good practices using feature flags]]
-
-- [[Git Bisect - The best thing to find the commit that introduced a bug!!!!]]
 
 - [[How to define a succession plan or career path❓❓]]
 
@@ -44,13 +38,27 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 - [[Functional Programming in C# why should I care❓❓]]
   
 - [[“How Might We” Questions 📚]]
+  
+- [[Engineering estimation process! ]]
 
 
 ### 🌾🌾 Small plants
 
+- [[Engineering estimation process!]]
+
+- [[Git Bisect - The best thing to find the commit that introduced a bug!!!!]]
+
+  [[How to work with monkeys 🐒 and gorillas 🦍]]
+
 ### 🌳 Trees 🌳🌴
 
+- [[Which communication channels to use and when❓❓]]
+
+- [[Feature flag - Internal tool vs third party service!!!]] 
+
 ### Book Summaries 📚
+
+- [[What I learned after reading the book Digital Body Language!! 📚]] 
 
 <style>
   .wrapper {
