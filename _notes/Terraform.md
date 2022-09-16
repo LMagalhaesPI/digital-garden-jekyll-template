@@ -1,14 +1,15 @@
 ---
-title: API Gateway vs BFF
+title: Terraform
 ---
 
-The goal of having a BFF (backend for frontend) or API Gateway is to create a sigle point of entry to the system. If we are using an API Gateway the sigle point will be the same for all teh clients. In a BFF case witch client can have a diferent sigle point (BFF).
+Terraform is an open-source infrastructure as code software tool. It enables us to safety build, change and manage our infrsutructure. We can use a declarative configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON.
 
-The BFF makes sense when we have to use diferent communication protocols or if the clients are using different authentication mechanisms
+To run terraform:
 
-<img src="images/apigateway.png">
-API gateway architecture
+Terraform init
 
-<img src="images/BFF.png">  
+To validate the files:
 
-BFF architecture
+Terraform validate
+
+

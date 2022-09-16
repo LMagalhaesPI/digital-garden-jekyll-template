@@ -55,13 +55,3 @@ https://geekfeminism.fandom.com/wiki/T-shirts
 https://cpb-us-e2.wpmucdn.com/sites.oit.uci.edu/dist/c/2/files/2022/02/Inclusive-Language-Guide.pdf
 https://www.marinhhs.org/sites/default/files/boards/general/equality_v._equity_04_05_2021.pdf
 https://www.forbes.com/sites/carolinamilanesi/2021/06/29/the-importance-of-inclusive-language-and-design-in-tech/?sh=40a535cb1672
-
-
-T-sirts and the tech conferences!!!
-Can you please do woman size??? I don't need more shirts do speel and I don't have an husband to share it and even if I had it teh shirt sould be mine!!! 
-
-Communication is not what you say, but how it’s heard.
-
-References:
-
-https://geekfeminism.fandom.com/wiki/T-shirts

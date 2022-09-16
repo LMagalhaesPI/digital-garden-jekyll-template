@@ -1,5 +1,5 @@
 ---
-title: API Gateway vs BFF
+title: PERT estimations
 ---
 
 The goal of having a BFF (backend for frontend) or API Gateway is to create a sigle point of entry to the system. If we are using an API Gateway the sigle point will be the same for all teh clients. In a BFF case witch client can have a diferent sigle point (BFF).

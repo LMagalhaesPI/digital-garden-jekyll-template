@@ -38,19 +38,19 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 - [[Functional Programming in C# why should I care❓❓]]
   
 - [[“How Might We” Questions 📚]]
-  
-- [[Engineering estimation process! ]]
 
 
 ### 🌾🌾 Small plants
 
-- [[Engineering estimation process!]]
+- [[Engineering estimation process]]
 
 - [[Git Bisect - The best thing to find the commit that introduced a bug!!!!]]
 
-  [[How to work with monkeys 🐒 and gorillas 🦍]]
+- [[How to work with monkeys 🐒 and gorillas 🦍]]
 
-### 🌳 Trees 🌳🌴
+- [[Team metrics]]
+
+### 🌳 Trees 🌳🌴 
 
 - [[Which communication channels to use and when❓❓]]
 

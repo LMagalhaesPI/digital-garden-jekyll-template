@@ -11,5 +11,7 @@ Quality gates to be implemented:
 - SonarCloud runs static code analysis
 - Unit testing
 - Integration tests
-- Tests in prod 
+- Limit of errors from AWS??? (dev/qa, health check, right now we don't have the feedback to the pipeline. dl queue)
+- performace tests 
+- Tests in prod (monotoring and alerts)
 
