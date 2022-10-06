@@ -623,7 +623,7 @@ The purpose of the timeout timer is to give the system time to fix the problem t
 
 ### Chaos Monkey
 
-I love this idea. Create problems and failes in the system so we can solve problems before the users have to deal with it. https://en.wikipedia.org/wiki/Chaos_engineering#Chaos_Monkey
+ I love this idea. Create problems and failes in the system so we can solve problems before the users have to deal with it. https://en.wikipedia.org/wiki/Chaos_engineering#Chaos_Monkey
 
 ### Unreliable clocks
 
@@ -668,7 +668,7 @@ ADR
 
 ## Stream processing
 
-The main goal is to abandone the sync processing and data updating and do it incrementally available all over teh time. - Eventual concistency.
+The main goal is to abandone the sync processing and data updating and do it incrementally available all over the time. - Eventual concistency.
 
 A record is an event with a timespan. An event is created and published by a publisher (publisher or sender) and consumed my one or more consumers or subcribers (subcribers or recipients). 
 
@@ -693,6 +693,11 @@ When multiple consumers read messages in the same topic, to main patterns are us
   
 To make sure that the message broker doesn't delete messages that have not being consumed yet we have the acknowledgements from the consumers that it processed properly the message. 
 
+*Event sourcing* 
+
+- add link to event sourcing vs event-driven arquitecture
+event sourcing involves storing all changes to the application state as a log of change events. It is much easier to evolve the applications using it.
+
 Since applications using event sourcing usally saves a log of events and transform it into an applciation status it turns much more easier to detect and solve problems and recover data when something wrong or an exception happens. (storing snapshots)
 
 When using event sourcing the first interaction from the client would be a command (sync) with validations and a response to the user. Then an event will be created and published (async). We can have a second event as a result of a validation. It allow us to have async validations.
@@ -702,7 +707,6 @@ Immutable events - events cannot be changes, once they happend they will persist
 Message brokers as Kafka can be used to store data that will be digested by technologies like Druid and pistachio.  Kafka Connect sinks can export data from Kafka to various different databases and indexes.
 
 
-
 ### command query responsibility segregation (CQRS)
 
 Separece the resposability to write data from to read data. 
@@ -710,7 +714,25 @@ The biggest problem of event sourcing is that with async actions and SQRS a user
 
 And remove sensitive information. How can we do it???
 
+*Processing Streams*
 
+What can we do with all the information that we have from this streams:
+-You can take the data in the events and write it to the database, cache, search index, or similar storage system, from where it can thenbe queried by other clients.
+-You can push the events to users in some way, for example by sending email alerts or push notifications, or to a real-time dashboard.
+-You can process one or more input streams to produce one or more output streams.
+
+
+A stream never ends....
+
+When a match is found, the engine emits a complex event.
+
+Queries are stored long-term, and events from the input streams continuously flow past them in search of a query that matches an event pattern.
+
+## The future 
+
+
+
+Complex event processing (CEP) is an approach for analising event streams where you can specify rules to search for certain patterns of events in them.
 
 ## References
 https://brenocferreira.medium.com/designing-data-intensive-apps-um-resumo-1a62de5358f4

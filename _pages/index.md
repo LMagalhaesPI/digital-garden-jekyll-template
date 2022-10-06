@@ -35,9 +35,17 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[Contract tests]]
 
-- [[Functional Programming in C# why should I care❓❓]]
+<!-- - [[Functional Programming in C# why should I care❓❓]] -->
   
 - [[“How Might We” Questions 📚]]
+  
+- [[Quality gates to have continuos integration and continuos deploy! ]]
+
+- [[Engineering estimation process]]
+
+- [[Project management in a agile methodology]]
+
+- [[Ways of working and how to deliver fast keeping quality!!! ]]
 
 
 ### 🌾🌾 Small plants
@@ -59,6 +67,10 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 ### Book Summaries 📚
 
 - [[What I learned after reading the book Digital Body Language!! 📚]] 
+
+- [[Authonomy as a way to escape the build trap and a motivational toll]]
+
+- [[Designing Data-Intensive Applications - Resume!! 📚]]
 
 <style>
   .wrapper {
