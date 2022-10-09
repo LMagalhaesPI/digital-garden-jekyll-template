@@ -1,6 +1,26 @@
 ---
-title: The build trap review 
+title: Escaping the Build Trap book review 
 ---
+
+As a tech developer focused on quality and value, it is essential to be aware of the company process and how I can help improve it and be updated with the big picture. Because of that, I've been reading the book "Escaping the Build Trap: How Effective Product Management Creates Real Value."
+This book touches on several good points I will approach here with my opinion and how they can be applied. I even could translate some of them to my personal life :D
+
+## Authonomy as a way to escape the build trap and a motivational toll
+
+Everyone in the company must be aware of the company's goals and how to measure success. Instead of having the management asking for information without context and the team performing work in the same register, we should be all not in the same boat but in the same direction and be able to find different paths to reach the same point. 
+
+In product-led companies, we have to deal with three gaps:
+
+- Knowledge gap: The difference between what we would like to know and what we know; 
+- Alignment gap: The difference between what we want people to do and what they do;
+- Effects gap: The difference between what we expected from our actions to achieve and what they actually achieved. 
+
+### The importance of having autonomous teams
+
+To have autonomous teams, we need to have all teams aligned with clear directions and goals and be open to making decisions. Autonomy is what able companies to grow. Having all the decisions on top management costs a lot of resources, bureaucracy, delays, Frustrations on the teams, and unhappy people. And usually unhappy people don't produce the best work.
+
+We work with brilliant people, and companies pay a lot of money so they can use the best their brains can. Why not use all these people can offer to give them empowerment and a non-judgemental safe space to make decisions? 
+
 
 ## Where are you now?
 
@@ -20,6 +40,7 @@ When we don't have a direction, we go in all directions. When you are managing a
 
 The unconstrained team is the most frightened and scared to act in the organization. They feel they cannot decide because they have too many options. Appropriate constrained teams, ones who have a direction, feel safe to make a decision because they can see how their stories are align with the goals and strategy of the organization.
 
+## Discover the problems to solve
 ## How to solve it?
 
 The company must provide the vision to empower the teams, and the north starts. Then everyone should work on detecting and solving problems that are on the company's path to reach the vision.
@@ -62,5 +83,9 @@ Do not try to hide your progress from your leaders; they will demand more inform
 Fight to have feedback from your clients and stakeholders, implement experimentation, and share the positive results with data that proves it. 
 Give space and confidence to your team to raise questions, solutions, and problems, and create a space where everyone can feel comfortable failing and learning from it.
 
+
 Resources:
 https://blackswanfarming.com/cost-of-delay/?utm_source=pocket_mylist
+https://www.linkedin.com/pulse/advantages-disadvantages-minimum-viable-product-decision-making-?trk=organization-update-content_share-article
+
+

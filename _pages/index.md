@@ -39,13 +39,17 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
   
 - [[“How Might We” Questions 📚]]
   
-- [[Quality gates to have continuos integration and continuos deploy! ]]
+- [[Quality gates to have continuos integration and continuos deploy!]]
 
 - [[Engineering estimation process]]
 
 - [[Project management in a agile methodology]]
 
-- [[Ways of working and how to deliver fast keeping quality!!! ]]
+- [[Ways of working and how to deliver fast keeping quality!!!]]
+
+- [[Authonomy as a way to escape the build trap and a motivational toll]]
+
+- [[RACI model - Responsibility assignment matrix]]
 
 
 ### 🌾🌾 Small plants
@@ -68,7 +72,7 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[What I learned after reading the book Digital Body Language!! 📚]] 
 
-- [[Authonomy as a way to escape the build trap and a motivational toll]]
+- [[Escaping the Build Trap book review  ]]
 
 - [[Designing Data-Intensive Applications - Resume!! 📚]]
 
