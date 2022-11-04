@@ -72,7 +72,7 @@ You will not find here any kind of criticism, judgment, or vegan recipes (but I'
 
 - [[What I learned after reading the book Digital Body Language!! 📚]] 
 
-- [[Escaping the Build Trap book review  ]]
+- [[Escaping the Build Trap book review]]
 
 - [[Designing Data-Intensive Applications - Resume!! 📚]]
 
